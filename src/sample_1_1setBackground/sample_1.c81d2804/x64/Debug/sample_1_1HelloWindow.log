@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\myblog\OpenGL_Pro\sample_1_1HelloWindow\main.cpp(10,25): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\myblog\OpenGL_Pro\sample_1_1HelloWindow\main.cpp(10,20): warning C4305: “参数”: 从“double”到“GLclampf”截断
+  sample_1_1HelloWindow.vcxproj -> D:\myblog\OpenGL_Pro\sample_1_1HelloWindow\x64\Debug\sample_1_1HelloWindow.exe
